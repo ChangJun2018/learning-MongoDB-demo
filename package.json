@@ -1,0 +1,17 @@
+{
+  "name": "MongooseDemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "mocha": "^5.1.1",
+    "mongoose": "^5.0.17"
+  }
+}
